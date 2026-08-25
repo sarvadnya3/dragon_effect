@@ -187,7 +187,7 @@ let flyAnimation = null;
 const loader = new GLTFLoader();
 
 loader.load(
-    "/dragon.glb",
+    "./dragon.glb",
 
     (gltf) => {
 
